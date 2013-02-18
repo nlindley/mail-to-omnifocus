@@ -10,13 +10,14 @@ This service also moves the message to the “Archive” folder if it exists.
 Clone this repository to `~/Library/Services`.
 
 ```
-git clone https://github.com/nlindley/mail-to-omnifocus.git "~/Library/Services/Send to Omnifocus and Archive.workflow"
+git clone https://github.com/nlindley/mail-to-omnifocus.git ~/Library/Services/Send\ to\ OmniFocus\ and\ Archive.workflow
 ```
 
 If you would like a keyboard shortcut, go to System Preferences, Keyboard,
 Keyboard Shortcuts. Select Services in the left pane and select the service in
 the right pane. Click the `add shortcut` button and enter the key combination
-you wish to use.
+you wish to use. If Mail is already running, you will need to restart it before
+the keyboard shortcut will work.
 
 ## License
 
