@@ -21,5 +21,5 @@ the keyboard shortcut will work.
 
 ## License
 
-This software is released under the MIT License which can be found in
-`LICENSE.txt`
+This software is released under the MIT License, which can be found in
+`LICENSE.txt`.
