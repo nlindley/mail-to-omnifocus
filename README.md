@@ -1,9 +1,11 @@
 # Send to OmniFocus and Archive
 
-This is a simple service for OS X Mail and OmniFocus that takes the selected
-messages and creates Inbox tasks in [OmniFocus][of]. It uses the email subject
+This is a simple service for OS X Mail and [OmniFocus][of] that takes the selected
+messages and creates Inbox tasks in OmniFocus. It uses the email subject
 is used for the title of the task, and a link to the message is used as a note.
 This service also moves the message to the “Archive” folder if it exists.
+
+[of]: http://www.omnigroup.com/products/omnifocus/
 
 ## Usage
 
